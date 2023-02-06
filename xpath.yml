@@ -1,2 +1,3 @@
 container: //div[@class='ann-subcat-listing'
+ad: //div[@class='ann-ad-tile__content']
 prices: //div[@class='ann-ad-tile__price
