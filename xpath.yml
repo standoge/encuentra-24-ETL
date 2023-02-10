@@ -1,4 +1,6 @@
-container: //div[@class='ann-subcat-listing'
-ad: //div[@class='ann-ad-tile__content']
-prices: //div[@class='ann-ad-tile__price
-description: //div[@class='row-fluid']
+cars_sedan:
+  url: https://www.encuentra22.com/el-salvador-es/autos-usados?q=f_style.3|imagesonly.on|number.50
+  container: //div[@class='ann-subcat-listing']
+  ad: //div[@class='ann-ad-tile__content']
+  prices: //div[@class='ann-ad-tile__price
+  description: //div[@class='row-fluid']
