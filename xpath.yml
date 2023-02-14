@@ -4,6 +4,9 @@ cars_sedan:
   ad: //div[@class='ann-ad-tile']
   model: //a[@class='ann-ad-tile__title']
   price: //div[@class='ann-ad-tile__price']
+  year: //div[@class='ann-ad-tile__icons']/div[1]
+  kilometers: //div[@class='ann-ad-tile__icons']/div[2]
+  engine: //div[@class='ann-ad-tile__icons']/div[3]
   description: //div[@class='row-fluid']
   exit: //div[@class='d3-detailpager']/div/a
   next: //div[@class='d3-detailpager']//div[@class='d3-detailpager__element d3-detailpager__element--next']/a
