@@ -7,10 +7,14 @@ Project is separated on two. A notebook for extraction and another for transform
 Notebook is structured by sections.
 * Includes init instructions (dependencies, global configurations)
 * Functions section, where are defined all functions used.
+* The extraction section where `Selenium` instance is executed and the instructions used
  
-Relevant cell has its respective text to explain what is happening.
+Relevant cell has its respective text to explain what is happening. All `xpaths` used are defined in xpath.yml file and are extracted dynamically with a function.
 
 ## Transformation 🔩
+Pending...
+
+## Load 🗃
 Pending...
 
 ---
