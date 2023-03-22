@@ -1,5 +1,5 @@
-# Encuentra 24 car scraper
-Scraper for cars ad in Encuentra24 El Salvador with `Selenium` and `Scrapy` to extract sedan cars models.
+# Encuentra 24 scraper
+Scraper for Encuentra24 El Salvador with `Selenium` and `Scrapy` to extract sedan cars models announcements and after be analyzed.
 
 Project is separated in two. A notebook for extraction with Selenium and another with Scrapy. Both use `xpath.yml` file
 where are defined the `xpath` sentences to use to extract required data to create the dataframes.
