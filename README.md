@@ -1,21 +1,19 @@
 # Encuentra 24 car scraper
-Scraper for cars ad in Encuentra24 El Salvador with `Selenium`.
+Scraper for cars ad in Encuentra24 El Salvador with `Selenium` and `Scrapy` to extract sedan cars models.
 
-Project is separated on two. A notebook for extraction and another for transformation, running the extraction notebook you can get a new dataset that can be exported as a `csv` file if all instructions run successfully.
+Project is separated in two. A notebook for extraction with Selenium and another with Scrapy. Both use `xpath.yml` file
+where are defined the `xpath` sentences to use to extract required data to create the dataframes.
 
 ## Extraction 🧲
-Notebook is structured by sections.
+Notebooks are structured by sections.
 * Includes init instructions (dependencies, global configurations)
 * Functions section, where are defined all functions used.
+* Relevant cell has its respective text to explain what is happening.
+
+### Selenium:
 * The extraction section where `Selenium` instance is executed and the instructions used
- 
-Relevant cell has its respective text to explain what is happening. All `xpaths` used are defined in xpath.yml file and are extracted dynamically with a function.
 
-## Transformation 🔩
-Pending...
-
-## Load 🗃
-Pending...
+### Scrapy:
 
 ---
 Enjoy :bamboo:
