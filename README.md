@@ -10,6 +10,11 @@ Notebook is structured by sections.
 * Functions section, where are defined all functions used.
 * Relevant cell has its respective text to explain what is happening.
 
+## Transformation: :moon:
+This section is shared in `Extraction` notebook. 
+* Functions section, where are defined all functions used.
+* Transformations required are explained, with a subtitle and description to explain what was the transformation applied.
+
 ## Analysis :chart:
 
 ---
