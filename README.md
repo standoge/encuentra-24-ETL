@@ -14,13 +14,13 @@ Notebook is structured by sections. Here data are extracted from `Encuentra24.co
 * Functions section, where are defined all functions used.
 * Relevant cell has its respective text to explain what is happening.
 
-## Transformation: :moon:
+## Transformation :moon:
 Notebook is structured by sections. Here data are checked and fixed in case oƒ inconsistencies.
 * Functions section, where are defined all functions used.
 * Transformations required are explained, with a subtitle and description to explain what was the transformation applied.
 
 ## Load :chart:
-Notebook is structured by sections. Here data are split to follow a start model in db (or warehouse) .
-
+Notebook is structured by sections. Here data are split to follow a start model.
+<img src="https://hackmd.io/_uploads/BygOjou4h.png">
 ---
 Enjoy :bamboo:
