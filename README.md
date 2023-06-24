@@ -20,5 +20,6 @@ Notebook is structured by sections. Here data are checked and fixed in case oƒ 
 Notebook is structured by sections. Here data are split to follow a start model.
 
 <img src="https://hackmd.io/_uploads/BygOjou4h.png">
+
 ---
-Enjoy :bamboo:
+:bamboo: ~
