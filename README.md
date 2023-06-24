@@ -5,9 +5,6 @@ with `Pandas`.
 Project is separated in two. A notebook for extraction with Selenium and another to analyze the data extracted. Is used a `xpath.yml` file
 where are defined the `xpath` sentences to use to extract required data to create the dataframes.
 
-### Dependencies:
-There are defined in `requirements.txt`.
-
 ## Extraction :brain:
 Notebook is structured by sections. Here data are extracted from `Encuentra24.com`.
 * Includes init instructions (dependencies, global configurations)
@@ -21,6 +18,7 @@ Notebook is structured by sections. Here data are checked and fixed in case oƒ 
 
 ## Load :chart:
 Notebook is structured by sections. Here data are split to follow a start model.
+
 <img src="https://hackmd.io/_uploads/BygOjou4h.png">
 ---
 Enjoy :bamboo:
