@@ -2,8 +2,9 @@
 ETL process for Encuentra24 El Salvador with `Selenium` to extract data about car announcements and after be transformed
 with `Pandas`.
 
-Project is separated in two. A notebook for extraction with Selenium and another to analyze the data extracted. Is used a `xpath.yml` file
-where are defined the `xpath` sentences to use to extract required data to create the dataframes.
+Project is separated in three. A notebook for extraction with Selenium which use a `xpath.yml` file
+where are defined the `xpath` sentences to use to extract required data to create the dataframes. Other with the transformations to apply to the data extracted.
+And the last one with the functions required to create entities like a star model for WH.
 
 ## Extraction :brain:
 Notebook is structured by sections. Here data are extracted from `Encuentra24.com`.
@@ -17,7 +18,7 @@ Notebook is structured by sections. Here data are checked and fixed in case oƒ 
 * Transformations required are explained, with a subtitle and description to explain what was the transformation applied.
 
 ## Load :chart:
-Notebook is structured by sections. Here data are split to follow a start model.
+Notebook is structured by sections. Here data are split to follow a star model.
 
 <img src="https://hackmd.io/_uploads/BygOjou4h.png">
 
