@@ -18,6 +18,8 @@ Notebook is structured by sections. Here data are extracted from `Encuentra24.co
 * Functions section, where are defined all functions used.
 * Relevant cell has its respective text to explain what is happening.
 
+> Just execute the notebook to extract data from `Encuentra24.com` and save it in `persistence` directory.
+
 ## Transformation :moon:
 
 Notebook is structured by sections. Here data are checked and fixed in case oƒ inconsistencies.
