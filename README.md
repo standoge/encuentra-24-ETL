@@ -35,7 +35,7 @@ Notebook is structured by sections. Here data are checked and fixed in case oƒ 
 
 Notebook is structured by sections. Here data are split to follow a star model.
 
-```Mermaid
+```mermaid
 
 erDiagram
 
