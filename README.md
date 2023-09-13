@@ -35,7 +35,35 @@ Notebook is structured by sections. Here data are checked and fixed in case oƒ 
 
 Notebook is structured by sections. Here data are split to follow a star model.
 
-<img src="https://hackmd.io/_uploads/BygOjou4h.png">
+```Mermaid
+
+erDiagram
+
+    dim_model {
+        model_ia
+        model
+    }
+    
+    dim_description {
+        description_id
+        description
+    }
+    
+    dim_engine {
+        engine_id
+        engine
+    }
+    
+    fact_sedan_stats {
+        fact_id
+        year
+        kilometers
+        price
+        model_id
+        engine_id
+    }
+```
+
 
 ---
 :bamboo: ~
