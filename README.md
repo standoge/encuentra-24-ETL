@@ -28,7 +28,7 @@ Notebook is structured by sections. Here data are checked and fixed in case oƒ 
 * Transformations required are explained, with a subtitle and description to explain what was the transformation
   applied.
 
-> This notebook is not required to run, just execute it if you data extracted from `Extraction` notebook has some of the
+> This notebook is not required to be executed, just execute it if you data extracted from `Extraction` notebook has some of the
 > problems described in the notebook.
 
 ## Load :chart:
