@@ -1,6 +1,6 @@
 cars_sedan:
   url: https://www.encuentra24.com/el-salvador-es/autos-usados?q=f_style.3|imagesonly.on|number.50
-  ad: //div[@class='ann-ad-tile']
+  ad: //div[@class='ann-ad-tile__content']
   brand: /html/body/section/div[4]/div/div/div/ul/li[2]/span[2]
   model: /html/body/section/div[4]/div/div/div/ul/li[3]/span[2]
   price: /html/body/section/div[4]/div/div/div/ul/li[5]/span[2]
