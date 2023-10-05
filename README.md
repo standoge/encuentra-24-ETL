@@ -33,7 +33,7 @@ Notebook is structured by sections. Here data are checked and fixed in case oƒ 
 
 ## Load :chart:
 
-Notebook is structured by sections. Here data are split to follow a star model.
+Notebook is structured by sections. Here data are split to follow a star model using `bottom-down` architecture.
 
 ```mermaid
 
