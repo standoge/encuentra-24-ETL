@@ -12,7 +12,7 @@ And the last one with the functions required to create entities like a star mode
 
 ## Extraction :brain:
 
-Notebook is structured by sections. Here data are extracted from `Encuentra24.com`.
+Here is the code to extrac the data.
 
 * Includes init instructions (dependencies, global configurations)
 * Functions section, where are defined all functions used.
@@ -20,7 +20,7 @@ Notebook is structured by sections. Here data are extracted from `Encuentra24.co
 
 ## Transformation :moon:
 
-Notebook is structured by sections. Here data are checked and fixed in case oƒ inconsistencies.
+Here is the code to check and fix data inconsistencies.
 
 * Functions section, where are defined all functions used.
 * Transformations required are explained, with a subtitle and description to explain what was the transformation
@@ -31,7 +31,7 @@ Notebook is structured by sections. Here data are checked and fixed in case oƒ 
 
 ## Load :chart:
 
-Notebook is structured by sections. Here data are split to follow a star model using `bottom-down` architecture.
+Here data are split to follow a star model using `bottom-down` architecture.
 
 ```mermaid
 
